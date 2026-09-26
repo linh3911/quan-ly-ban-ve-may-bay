@@ -1,0 +1,26 @@
+[
+    {
+        "id": "03",
+        "name": "CSLT",
+        "type": "Book",
+        "base_price": 100000.0,
+        "quantity": 20,
+        "extra": "Trung Thành"
+    },
+    {
+        "id": "01",
+        "name": "LTHDT",
+        "type": "Book",
+        "base_price": 200000.0,
+        "quantity": 3,
+        "extra": "Anh Quân"
+    },
+    {
+        "id": "02",
+        "name": "LLPPDH1",
+        "type": "Book",
+        "base_price": 300000.0,
+        "quantity": 19,
+        "extra": "Thế Dũng"
+    }
+]
